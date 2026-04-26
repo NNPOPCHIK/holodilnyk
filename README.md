@@ -49,3 +49,5 @@ PROXY = "socks5://user:pass@ip:port"
 ```bash
 PROXY = "socks5://ip:port"
 ```
+Блок схема моего проекта:
+<img width="1360" height="550" alt="diagram" src="https://github.com/user-attachments/assets/9d15d066-f12a-416b-a726-d1ea7a749799" />
